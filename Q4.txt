@@ -1,0 +1,9 @@
+
+INSERT INTO item (item_id, item_name, Item_price, category_id) VALUES (NULL,'堅牢な机',3000,1)
+																	,(NULL,'生焼け肉',50,2)
+																	,(NULL,'すっきりわかるJava入門',3000,3)
+																	,(NULL,'おしゃれな椅子',2000,1)
+																	,(NULL,'こんがり肉',500,2)
+																	,(NULL,'書き方ドリルSQL',2500,3)
+																	,(NULL,'ふわふわのベッド',30000,1)
+																	,(NULL,'ミラノ風ドリア',300,2);
